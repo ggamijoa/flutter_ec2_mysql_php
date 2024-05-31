@@ -1,0 +1,5 @@
+1. EC2 서버 이용
+2. /var/www/html/app1 에 php 파일 올려놨음
+3. mysql  id : cyo, pw : moaland.co.kr로 접속
+4. listview이용
+5. showdialog 사용
