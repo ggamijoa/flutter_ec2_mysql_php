@@ -103,13 +103,6 @@ class _MyHomePageState extends State<MyHomePage> {
                       child: Icon(Icons.delete),
                       onTap: (){
                         showDeleteDialog(list[index]['id']) ;
-                        // setState(() {
-                        //   final url = Uri.parse('http://43.203.45.247/app1/delete.php') ;
-                        //   http.post(url,
-                        //     body : {
-                        //       'id' : list[index]['id'],
-                        //     }) ;
-                        // });
                       },
                     ),
                   );
